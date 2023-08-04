@@ -1,0 +1,29 @@
+Dear  Krishna,
+We have reviewed your application and would like to proceed to the next stage of our selection process.
+
+For more details please checkout our website: https://landsandhomes.com/about-us
+
+Connect on LinkedIn for more updates https://www.linkedin.com/company/landsandhomes/
+
+A couple of requirements have to be met to be qualified for this position. You must be able to communicate with ease in English, as the work will be conducted in English, and must be an advanced user of Laravel and preferably Nodejs. We would like to ask you to complete the following task: 
+Create a fresh Laravel Latest version project.
+Create APİ to save name (string, max 50), description (string, max 250), file (image, size max 5mb), type (should be 1, 2 or 3) inputs in mysql DB. Before saving, validate the whole data and save the image file in a private folder in storage. This api should return only name, type and description after saving data.
+Create an API to list the whole records only with name, type and description being returned. Data should paginate by 10 at a time.
+Create an API to show a single record with name, type, description and temporary url of image.
+Create a cron job to delete 30 days old records each hour. Writing clean codes and using Laravel functionalities will be a plus.
+Create a public github repository and push your whole code
+This task is purely to test your abilities and has no direct relation to our project. Ideally the task shouldn't take you longer than 3-4 hours however given that you might be busy with other work we are giving you two to three days to complete the test task and submit it via a github report.
+
+Good Luck, 
+
+For any concerns reach out to us over mail or you can connect with  Karthik @karthikeyan@landsandhomes.com 
+Thanks & Regards
+Pushpa A 
+Sales & HR Head 
+No B-4, 4th floor, Rathod Landmark,
+25/3-39, Next to Build Mart,
+1st Stage, Yeshwanthpur,
+Bengaluru,560022
++91 6364465978
+"Impossible" is just a Lame Excuse failing to make an effort"
+
